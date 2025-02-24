@@ -58,3 +58,4 @@ Utilize Microsoft Azure to create Windows and Linux virtual machines and monitor
 <img width="1917" alt="Step 3h - Create Virtual machines" src="https://github.com/user-attachments/assets/6334c085-a7fc-425b-97d8-0723d2461dc1" />
 
 <h2>(Mac Users) Install Windows App (Microsoft Remote Desktop)</h2>
+<img width="1552" alt="Step 4a - Download Windows App" src="https://github.com/user-attachments/assets/76d59017-e220-4d9e-b938-b473a24293ce" />
