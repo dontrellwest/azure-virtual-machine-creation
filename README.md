@@ -1,21 +1,18 @@
 ![image](https://github.com/user-attachments/assets/be91d96c-bb8f-4a03-9039-a926e33042ec)
 
-
-<h1>Networking Using Virtual Machines in Micorsoft Azure</h1>
+<h1>Creating Virtual Machines in Micorsoft Azure</h1>
 
 
 <h2>Description</h2>
-Utilize Microsoft Azure to create Windows and Linux virtual machines and monitor network traffic between them using Remote Desktop and Wireshark. 
+Utilize Microsoft Azure to create Windows and Linux virtual machines
 
 
 <h2>Environments and Utilities Used</h2>
 
 - Microsoft Azure
+- Resource Groups
 - Virtual Machines
-- Remote Desktop Connection
-- Wireshark
-- Network Protocols Monitored (ICMP, SSH, DHCP, DNS)
-- Command-Line Tools
+
 
 <h2>Operating Systems Used </h2>
 
@@ -41,7 +38,7 @@ Utilize Microsoft Azure to create Windows and Linux virtual machines and monitor
 <img width="1917" alt="Step 2f - Create Virtual machines" src="https://github.com/user-attachments/assets/0c67e053-1b79-438c-b763-96e42344d44a" />
 <img width="1918" alt="Step 2g - Create Virtual machines" src="https://github.com/user-attachments/assets/b14c272c-e63a-41ea-8061-25531f3bf425" />
 <img width="1913" alt="Step 2h - Create Virtual machines" src="https://github.com/user-attachments/assets/12d67c7c-5efb-4e79-9e6c-d10f131f390f" />
-<img width="1918" alt="Step 2i - Create Virtual machines" src="https://github.com/user-attachments/assets/9a35ca0a-1dec-4c14-9f54-d273e12964cb" />
+<img width="1918" alt="Step 2i - Create Virtual machines" src="https://github.com/user-attachments/assets/eccb6efa-2e2c-417b-822e-6d9937c17f04" />
 <img width="1918" alt="Step 2j - Create Virtual machines" src="https://github.com/user-attachments/assets/8b20811d-bca2-4bfe-8e1c-7007b421f450" />
 <img width="1922" alt="Step 2k - Create Virtual machines" src="https://github.com/user-attachments/assets/e790f921-f79a-4ce6-aaa8-e2f620d207eb" />
 
@@ -57,5 +54,6 @@ Utilize Microsoft Azure to create Windows and Linux virtual machines and monitor
 <img width="1916" alt="Step 3g - Create Virtual machines" src="https://github.com/user-attachments/assets/04ad4853-e6c9-4cf4-aacc-20be8636299f" />
 <img width="1917" alt="Step 3h - Create Virtual machines" src="https://github.com/user-attachments/assets/6334c085-a7fc-425b-97d8-0723d2461dc1" />
 
-<h2>(Mac Users) Install Windows App (Microsoft Remote Desktop)</h2>
-<img width="1552" alt="Step 4a - Download Windows App" src="https://github.com/user-attachments/assets/76d59017-e220-4d9e-b938-b473a24293ce" />
+
+<h1>Complete!</h1>
+You have successfully created a Windows and Linux virtual machine, and verified they are on the same virtual network. You may now use these VM's in future labs. The next recommended lab is "Monitoring Network Traffic Between Computers".
