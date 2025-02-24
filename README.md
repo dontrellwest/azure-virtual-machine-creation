@@ -16,7 +16,7 @@ Utilize Microsoft Azure to create Windows and Linux virtual machines
 
 <h2>Operating Systems Used </h2>
 
-- <b>Windows 10</b>
+- <b>Windows 10 Pro</b>
 - <b>Ubuntu 22.04</b>
 
 <h1>Project Walk-through</h1>
