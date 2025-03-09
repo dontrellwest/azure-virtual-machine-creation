@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/be91d96c-bb8f-4a03-9039-a926e33042ec)
-
 <h1>Creating Virtual Machines in Microsoft Azure</h1>
 
 
